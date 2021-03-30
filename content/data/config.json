@@ -29,7 +29,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Área do Cliente",
                 "url": "/signup",
                 "style": "primary"
             }
